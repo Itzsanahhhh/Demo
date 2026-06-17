@@ -1,7 +1,22 @@
-## Hey, this is sanaahh shaikh!!<br/>
-Continuous learner <br/>
-| Python · Flask · HTML · CSS · Git | <br/>
-Passionate about web development, data analyst and growing through hands-on projects
+ Hi, I'm Sana...
+
+🏦 Video Banker | 💻 Aspiring Developer
+
+
+🛠️ Skills
+- Python | Flask | HTML | CSS
+- Git & GitHub
+
+🌱 Currently Learning
+- Python (Intermediate) — decorators, generators, list comprehensions
+- Web Development with Flask
+
+🚀 Projects
+- 🧮 Browser-based Calculator (Python)
+- 🌐 Multi-page Flask Web App
+
+ 📫 Contact
+- Instagram: itz_sanaahhhh_14
 
 
 # 📊 GitHub Stats:
@@ -10,6 +25,4 @@ Passionate about web development, data analyst and growing through hands-on proj
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Itzsanahhhh&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Itzsanahhhh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=Itzsanahhhh&icon=0&color=0)](https://visitcount.itsvg.in
